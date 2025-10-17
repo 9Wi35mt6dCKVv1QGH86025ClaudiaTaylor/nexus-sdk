@@ -309,3 +309,5 @@ Provides completion for some well-known shells.
 <!-- List of References -->
 
 [nexus-cli-repo]: https://github.com/Talus-Network/nexus-sdk/tree/main/cli
+
+<!-- Auto-update: 2025-10-17T10:50:29.808390 -->
